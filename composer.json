@@ -1,0 +1,13 @@
+{
+    "require": {
+        "illuminate/database": "^10.48",
+        "webonyx/graphql-php": "^15.19",
+        "ramsey/uuid": "^4.7"
+    },
+        "autoload": {
+            "psr-4": {
+                "App\\": "app/"
+            }
+        }
+    
+}
