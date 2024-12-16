@@ -1,6 +1,6 @@
 La base de datos se encuentra en el archivo config con el nombre de
 database  = graphqldatabase
 
-si quieres hacer una migracion puedes hacerlo usando este comandos
+si quieres hacer una migracion puedes hacerlo usando este comando
 php db/migrate.php
 para migrar la tabla de files a la base de datos
