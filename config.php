@@ -8,7 +8,7 @@ $capsule = new Capsule;
 $capsule->addConnection([
     'driver'    => 'mysql',
     'host'      => '127.0.0.1',
-    'database'  => 'graphqldatabase',
+    'database'  => 'graphql_database',
     'username'  => 'root',
     'password'  => '',
     'charset'   => 'utf8',
